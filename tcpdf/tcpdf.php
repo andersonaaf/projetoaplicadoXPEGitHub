@@ -1,5 +1,5 @@
 <?php
-//teste 3 push - regra implantada
+//teste 4 push controlada - regra implantada
 //============================================================+
 // File name   : tcpdf.php
 // Version     : 6.2.6
